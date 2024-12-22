@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529713508796",
+    "project_id": "pi807i",
+    "storage_bucket": "pi807i.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529713508796:android:391708cfe34d05068dbbb9",
+        "android_client_info": {
+          "package_name": "com.example.pi807i"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qyhlxg1bnKZAE_v3lSdMuEi0R3wzfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
